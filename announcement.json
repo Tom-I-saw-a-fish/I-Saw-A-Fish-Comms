@@ -1,9 +1,9 @@
 {                                                                                                                                                                                                                                 
     "announcements": [                                                                                                                                                                                                              
       { "id": "update-45", "message": "A new update is available!",                                                                                                                                                                 
-        "isVisible": true, "maxVersion": 44 },                                                                                                                                                                                      
+        "isVisible": false, "maxVersion": 44 },                                                                                                                                                                                      
       { "id": "privacy-2026-08", "message": "Check out the new privacy policy",                                                                                                                                                     
-        "isVisible": true, "versions": [45] },                                                                                                                                                                                      
-      { "id": "season-greeting", "message": "Happy diving!", "isVisible": true }                                                                                                                                                    
+        "isVisible": false, "versions": [45] },                                                                                                                                                                                      
+      { "id": "season-greeting", "message": "Happy diving!", "isVisible": false }                                                                                                                                                    
     ]                                                                                                                                                                                                                               
   }          
