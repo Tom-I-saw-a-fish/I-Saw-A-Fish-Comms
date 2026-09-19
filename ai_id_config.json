@@ -5,5 +5,5 @@
  "maxPerMonth": 3000,
  "trialCount": 200,
  "minVersionCode": 0,
- "ledgerRequired": false
+ "ledgerRequired": true
 }
