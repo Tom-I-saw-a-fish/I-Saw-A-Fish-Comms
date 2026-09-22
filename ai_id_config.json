@@ -3,7 +3,7 @@
  "model": "gemini-3.5-flash-lite",
  "maxPerDay": 3000,
  "maxPerMonth": 3000,
- "trialCount": 3,
+ "trialCount": 30,
  "minVersionCode": 0,
  "ledgerRequired": true
 }
