@@ -1,6 +1,6 @@
 {
- "enabled": true,
- "model": "gemini-3.5-flash-lite",
+ "enabled": false,
+ "model": "",
  "maxPerDay": 3000,
  "maxPerMonth": 3000,
  "trialCount": 30,
