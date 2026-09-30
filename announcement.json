@@ -1,6 +1,6 @@
 {                                                                                                                                                                                                                                 
     "announcements": [      
-         { "id": "ai", "message": "AI fish identification is here! Update the app to use it. Also: new Terms of Service and Privacy Policy",                                                                                                                                                                 
+         { "id": "ai", "message": "AI FISH IDENTIFICATION IS HERE! Update the app to use it. Also: new Terms of Service and Privacy Policy",                                                                                                                                                                 
         "isVisible": true, "maxVersion": 64 }, 
       { "id": "update-45", "message": "A new update is available!",                                                                                                                                                                 
         "isVisible": false, "maxVersion": 44 },                                                                                                                                                                                      
