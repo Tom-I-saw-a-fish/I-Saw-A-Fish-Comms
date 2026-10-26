@@ -1,5 +1,7 @@
 {                                                                                                                                                                                                                                 
     "announcements": [      
+        { "id": "privacy and tos 2026-10", "message": "26 OCT 2026: New Terms of Service and Privacy Policy",                                                                                                                                                                 
+        "isVisible": true, "maxVersion": 69 },
          { "id": "ai", "message": "AI FISH IDENTIFICATION IS HERE! Update the app to use it. Also: new Terms of Service and Privacy Policy",                                                                                                                                                                 
         "isVisible": true, "maxVersion": 64 }, 
       { "id": "update-45", "message": "A new update is available!",                                                                                                                                                                 
